@@ -1,0 +1,348 @@
+19:05:20 [info] [LOG SESSION] ---------- START ----------
+19:05:20 [info] [PluginFactory] loading plugins
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libalsaout.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libffmpegdecoder.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libhttpdatastream.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libmpris.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libnullout.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libopenmptdecoder.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libpipewireout.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libportaudioout.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libpulseout.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libserver.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libsndioout.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libstockencoders.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libsupereqdsp.so
+19:05:20 [info] [PluginFactory] loaded: /usr/local/share/musikcube/plugins/libtaglibreader.so
+19:05:20 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:05:20 [info] [PipeWireOut] shutdown started
+19:05:20 [info] [PipeWireOut] shutdown complete
+19:05:20 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:05:20 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:05:20 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:05:20 [info] [Indexer] indexer source 155697690 running...
+19:05:20 [info] [Indexer] indexer source 155697690 finished
+19:05:20 [info] [Indexer] scan completed successfully
+19:05:20 [info] [Indexer] cleanup 1/2
+19:05:20 [info] [Indexer] cleanup 2/2
+19:05:20 [info] [Indexer] optimizing
+19:05:20 [info] [Indexer] done!
+19:05:20 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+19:05:20 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+19:05:20 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+19:05:20 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:05:20 [info] [PipeWireOut] shutdown started
+19:05:20 [info] [PipeWireOut] shutdown complete
+19:05:20 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:05:20 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:05:20 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:05:20 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:05:20 [info] [PipeWireOut] shutdown started
+19:05:20 [info] [PipeWireOut] shutdown complete
+19:05:20 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:05:20 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:05:20 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:05:29 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:05:29 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:05:29 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:05:35 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:05:35 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:05:35 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:05:37 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:05:37 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:05:37 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:05:46 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:05:46 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:05:46 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:05:48 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:05:48 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:05:48 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:05:49 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:05:49 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:05:49 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:05:50 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:05:50 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:05:50 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:05:55 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:05:55 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:05:55 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:05:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:05:59 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:05:59 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:05:59 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:05:59 [info] [LocalLibrary] query 'AllCategoriesQuery' enqueued
+19:05:59 [info] [LocalLibrary] query 'AllCategoriesQuery' running
+19:05:59 [info] [LocalLibrary] query 'AllCategoriesQuery' finished with status=4
+19:06:05 [info] [LocalLibrary] query 'AllCategoriesQuery' enqueued
+19:06:05 [info] [LocalLibrary] query 'AllCategoriesQuery' running
+19:06:05 [info] [LocalLibrary] query 'AllCategoriesQuery' finished with status=4
+19:06:12 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:12 [info] [PipeWireOut] shutdown started
+19:06:12 [info] [PipeWireOut] shutdown complete
+19:06:12 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:12 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:12 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:12 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:12 [info] [PipeWireOut] shutdown started
+19:06:12 [info] [PipeWireOut] shutdown complete
+19:06:12 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:12 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:12 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:16 [info] [Indexer] indexer source 155697690 running...
+19:06:16 [info] [Indexer] indexer source 155697690 finished
+19:06:16 [info] [Indexer] scanning /home/thinkroot99/Music/audio/
+19:06:16 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:06:16 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:06:16 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:06:17 [info] [Indexer] scan completed successfully
+19:06:17 [info] [Indexer] cleanup 1/2
+19:06:17 [info] [Indexer] cleanup 2/2
+19:06:17 [info] [Indexer] optimizing
+19:06:17 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+19:06:17 [info] [Indexer] done!
+19:06:17 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:06:17 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:06:17 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:06:24 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:24 [info] [PipeWireOut] shutdown started
+19:06:24 [info] [PipeWireOut] shutdown complete
+19:06:24 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:24 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:24 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:24 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:24 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:24 [info] [PipeWireOut] shutdown started
+19:06:24 [info] [PipeWireOut] shutdown complete
+19:06:24 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:24 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:24 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:26 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:26 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:26 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:26 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:26 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:26 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:26 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:26 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:26 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:26 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:26 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:26 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:27 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:27 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:27 [info] [PipeWireOut] device refresh finished
+19:06:27 [info] [PipeWireOut] shutdown started
+19:06:27 [info] [PipeWireOut] shutdown complete
+19:06:27 [info] [PipeWireOut] shutdown started
+19:06:27 [info] [PipeWireOut] shutdown complete
+19:06:27 [info] [PipeWireOut] shutdown started
+19:06:27 [info] [PipeWireOut] shutdown complete
+19:06:27 [info] [GaplessTransport] stop
+19:06:27 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:27 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:27 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:27 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:28 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:28 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:28 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:28 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:28 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:28 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:28 [info] [PipeWireOut] device refresh finished
+19:06:28 [info] [PipeWireOut] shutdown started
+19:06:28 [info] [PipeWireOut] shutdown complete
+19:06:28 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:28 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:28 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:28 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:28 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:28 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:28 [info] [PipeWireOut] device refresh finished
+19:06:28 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:28 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:28 [info] [PipeWireOut] device refresh finished
+19:06:29 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:29 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:29 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:29 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:29 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:29 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:29 [info] [PipeWireOut] device refresh finished
+19:06:29 [info] [PipeWireOut] shutdown started
+19:06:29 [info] [PipeWireOut] shutdown complete
+19:06:29 [info] [PipeWireOut] shutdown started
+19:06:29 [info] [PipeWireOut] shutdown complete
+19:06:36 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:36 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:36 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:36 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:36 [info] [PipeWireOut] shutdown started
+19:06:36 [info] [PipeWireOut] shutdown complete
+19:06:36 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:36 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:36 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:36 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:36 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:36 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:36 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:36 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:36 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:36 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:36 [info] [PipeWireOut] device refresh finished
+19:06:36 [info] [PipeWireOut] shutdown started
+19:06:36 [info] [PipeWireOut] shutdown complete
+19:06:36 [info] [PipeWireOut] shutdown started
+19:06:36 [info] [PipeWireOut] shutdown complete
+19:06:37 [info] [PipeWireOut] shutdown started
+19:06:37 [info] [PipeWireOut] shutdown complete
+19:06:43 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:43 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:43 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:43 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:43 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:43 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:43 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:43 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:43 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:43 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:43 [info] [PipeWireOut] device refresh finished
+19:06:43 [info] [PipeWireOut] shutdown started
+19:06:43 [info] [PipeWireOut] shutdown complete
+19:06:43 [info] [PipeWireOut] shutdown started
+19:06:43 [info] [PipeWireOut] shutdown complete
+19:06:46 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:46 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:46 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:46 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:46 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:46 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:46 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:46 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:46 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:46 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:46 [info] [PipeWireOut] device refresh finished
+19:06:46 [info] [PipeWireOut] shutdown started
+19:06:46 [info] [PipeWireOut] shutdown complete
+19:06:46 [info] [PipeWireOut] shutdown started
+19:06:46 [info] [PipeWireOut] shutdown complete
+19:06:54 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:54 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:54 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:54 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:54 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:54 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:54 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:54 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:54 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:54 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:54 [info] [PipeWireOut] device refresh finished
+19:06:54 [info] [PipeWireOut] shutdown started
+19:06:54 [info] [PipeWireOut] shutdown complete
+19:06:54 [info] [PipeWireOut] shutdown started
+19:06:54 [info] [PipeWireOut] shutdown complete
+19:06:56 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:56 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:56 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:56 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:56 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:06:56 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:06:56 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:06:56 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:06:56 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:06:56 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:06:56 [info] [PipeWireOut] device refresh finished
+19:06:56 [info] [PipeWireOut] shutdown started
+19:06:56 [info] [PipeWireOut] shutdown complete
+19:06:56 [info] [PipeWireOut] shutdown started
+19:06:56 [info] [PipeWireOut] shutdown complete
+19:07:05 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+19:07:05 [info] [LocalLibrary] query 'CategoryListQuery' running
+19:07:05 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+19:07:08 [info] [LocalLibrary] query 'AllCategoriesQuery' enqueued
+19:07:08 [info] [LocalLibrary] query 'AllCategoriesQuery' running
+19:07:08 [info] [LocalLibrary] query 'AllCategoriesQuery' finished with status=4
+19:07:09 [info] [LocalLibrary] query 'DirectoryTrackListQuery' enqueued
+19:07:09 [info] [LocalLibrary] query 'DirectoryTrackListQuery' running
+19:07:09 [info] [LocalLibrary] query 'DirectoryTrackListQuery' finished with status=4
+19:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+19:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+19:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+19:07:11 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+19:07:11 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+19:07:11 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+19:07:11 [info] [CrossfadeTransport] trying to play /home/thinkroot99/Music/audio/Aerosmith_-_I_Don_t_Want_to_Miss_a_Thing.mp3
+19:07:11 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:07:11 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:07:11 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:07:11 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:07:11 [info] [Player] new instance created
+19:07:11 [info] [Stream] opening /home/thinkroot99/Music/audio/Aerosmith_-_I_Don_t_Want_to_Miss_a_Thing.mp3
+19:07:11 [info] [LocalFileStream] opening file: /home/thinkroot99/Music/audio/Aerosmith_-_I_Don_t_Want_to_Miss_a_Thing.mp3
+19:07:11 [info] [ffmpegdecoder] parsing data stream...
+19:07:11 [info] [ffmpegdecoder] found audio stream!
+19:07:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:07:11 [info] [Streams] found a decoder for /home/thinkroot99/Music/audio/Aerosmith_-_I_Don_t_Want_to_Miss_a_Thing.mp3
+19:07:11 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:07:11 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:07:11 [info] [PipeWireOut] device refresh finished
+19:07:11 [info] [PipeWireOut] state changed from 0 to 1. (no additional context)
+19:07:11 [info] [PipeWireOut] new stream created and connected successfully
+19:07:11 [info] [PipeWireOut] state changed from 1 to 2. (no additional context)
+19:07:11 [info] [PipeWireOut] state changed from 2 to 3. (no additional context)
+19:07:11 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+19:07:11 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+19:07:11 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+19:07:11 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:07:11 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:07:11 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:07:11 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:07:11 [info] [Player] new instance created
+19:07:11 [info] [Stream] opening /home/thinkroot99/Music/audio/Alexandra_Stan__Bad_at_Hating_You.mp3
+19:07:11 [info] [LocalFileStream] opening file: /home/thinkroot99/Music/audio/Alexandra_Stan__Bad_at_Hating_You.mp3
+19:07:11 [info] [ffmpegdecoder] parsing data stream...
+19:07:11 [info] [ffmpegdecoder] found audio stream!
+19:07:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:07:11 [info] [Streams] found a decoder for /home/thinkroot99/Music/audio/Alexandra_Stan__Bad_at_Hating_You.mp3
+19:07:22 [info] [CrossfadeTransport] trying to play /home/thinkroot99/Music/audio/Alexandra_Stan__Bad_at_Hating_You.mp3
+19:07:22 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=41
+19:07:22 [info] [PipeWireOut] detected PipeWire:Interface:Device with id=42
+19:07:22 [info] [PipeWireOut] device refresh finished
+19:07:22 [info] [PipeWireOut] state changed from 0 to 1. (no additional context)
+19:07:22 [info] [PipeWireOut] new stream created and connected successfully
+19:07:22 [info] [PipeWireOut] state changed from 1 to 2. (no additional context)
+19:07:22 [info] [PipeWireOut] state changed from 2 to 3. (no additional context)
+19:07:22 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+19:07:22 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+19:07:22 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+19:07:22 [info] [PortAudioOut] Pa_Initialize() return code: 0
+19:07:22 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+19:07:22 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+19:07:22 [info] [PortAudioOut] Pa_Terminate() return code: 0
+19:07:22 [info] [Player] new instance created
+19:07:22 [info] [Stream] opening /home/thinkroot99/Music/audio/Unde-s_haiducii.mp3
+19:07:22 [info] [LocalFileStream] opening file: /home/thinkroot99/Music/audio/Unde-s_haiducii.mp3
+19:07:22 [info] [ffmpegdecoder] parsing data stream...
+19:07:22 [info] [ffmpegdecoder] found audio stream!
+19:07:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+19:07:22 [info] [Streams] found a decoder for /home/thinkroot99/Music/audio/Unde-s_haiducii.mp3
+19:07:24 [info] [PipeWireOut] drained
+19:07:24 [info] [PipeWireOut] state changed from 3 to 2. (no additional context)
+19:07:24 [info] [PipeWireOut] shutdown started
+19:07:24 [info] [PipeWireOut] state changed from 2 to 0. (no additional context)
+19:07:24 [info] [PipeWireOut] shutdown complete
